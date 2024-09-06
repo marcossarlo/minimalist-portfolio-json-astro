@@ -1,66 +1,66 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Marcos Sarmiento Loarte",
+    "label": "Ingeniero informático con una amplia experiencia en desarrollo web y gestión de plataformas de e-learning",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "marcossl@goutlook.com",
+    "phone": "+51 964366181",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Soy un ingeniero informático apasionado por la creación de soluciones digitales. Durante los últimos 10 años, he estado involucrado en el diseño, desarrollo y gestión de sitios web utilizando Joomla y plataformas de e-learning basadas en Moodle, para organizaciones nacionales y extranjeras.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "Av. San Carlos 2370",
+      "postalCode": "064",
+      "city": "Huancayo",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Perú"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "marcossarlo",
+        "url": "https://linkedin.com/in/marcossarlo"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "marcossarlo",
+        "url": "https://x.com/marcossarlo"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "marcossarlo",
+        "url": "https://github.com/marcossarlo"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Fondo Verde",
+      "position": "Director de Tecnologías",
+      "url": "https://marcossarlo.com",
+      "startDate": "2009-06-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollo y administración de portales web. Desarrollo y administración de plataformas de teleformación. Soporte informático a usuarios y clientes.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Instituto Geofísico del Perú",
+      "position": "Operador de la Estación Central de Registro de la Red Sísmica Tablachaca – Mantaro",
+      "url": "https://ultimosismo.igp.gob.pe",
+      "startDate": "2006-01-01",
+      "endDate": "2009-09-30",
+      "summary": "Cumplimiento del turno nocturno de Emergencia Sísmica. Procesamiento de sismos registrados. Se observa visualmente la operatividad de los sistemas de Sismología. Informe al personal de Electro Perú sobre cualquier evento sísmico que pudiese producirse en las estaciones",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Freelance",
+      "position": "Desarrollador Web",
+      "startDate": "2008-10-01",
+      "endDate": null,
+      "summary": "Trabajador Freelance en Desarrollo de Sitios Web.",
       "highlights": [
         "Started the company"
       ]
@@ -78,17 +78,30 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "institution": "Platzi",
+    "url": "https://platzi.com/",
+    "area": "Desarrollo e Ingeniería",
+    "studyType": "Ingeniero Informático",
+    "startDate": "2023-08-01",
+    "endDate": null,
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
-  }],
+  },
+  {
+    "institution": "Universidad Continental",
+    "url": "https://ucontinental.edu.pe/",
+    "area": "Facultad de Ingeniería Informática",
+    "studyType": "Ingeniero Informático",
+    "startDate": "1999-03-01",
+    "endDate": "2005-12-15",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -152,6 +165,13 @@
       ]
     },
     {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
@@ -170,20 +190,6 @@
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -210,66 +216,65 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "ONG Fondo Verde",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Organización líder en el sector de formación ambiental",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Proyectos", "Cooperación", "Formación", "Medio Ambiente"
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.fondoverde.org/"
+    },    
+    {
+      "name": "Fondo Verde Institute",
+      "isActive": true,
+      "description": "El Instituto, ofrece el mejor contenido de training en medio ambiente",
+      "highlights": [
+        "sociedad civil",
+        "gobierno y ecologistas"
+      ],
+      "url": "https://fondoverdeinstitute.com/"
     },
     {
-      "name": "AdventJS",
+      "name": "Fondo Verde Open",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Plataforma de e-learnig",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Doctorados",
+        "Maestrías",
+        "Post Doctorados"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://www.fondoverdeopen.net/"
     },
     {
-      "name": "Codember",
+      "name": "PMA.lat",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Certificaciones para Profesionales en Medioambiente",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Certificación PMA",
+        "Certificación PMPA"
       ],
-      "url": "https://codember.dev"
+      "url": "https://www.profesionalenmedioambiente.com/",
+      "github": "#"
     },
     {
-      "name": "codi.link",
+      "name": "Academia PMA",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Academia Virtual PMA",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Aprendizaje sin límites",
+        ""
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://www.academiapma.net/",
+      "github": "#"
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "name": "Registro PMA",
+      "description": "Verificar certificado PMA™ usando el código único de registro",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Código único de registro",
+        "CUR"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://www.registropma.net/"
     }
   ]
 }
