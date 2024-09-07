@@ -9,10 +9,12 @@
 Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
 </p>
 
-
 <p>
 Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+</p>
 
+<p>
+    Forked from <a href="forked from midudev/minimalist-portfolio-json" target="_blank">midudev/minimalist-portfolio-json</a>
 </p>
 
 </div>
