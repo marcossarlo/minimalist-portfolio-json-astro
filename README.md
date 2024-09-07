@@ -14,7 +14,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 </p>
 
 <p>
-    Forked from <a href="forked from midudev/minimalist-portfolio-json" target="_blank">midudev/minimalist-portfolio-json</a>
+    Forked from <a href="https://github.com/midudev/minimalist-portfolio-json" target="_blank">midudev/minimalist-portfolio-json</a>
 </p>
 
 </div>
